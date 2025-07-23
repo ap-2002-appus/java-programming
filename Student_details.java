@@ -5,7 +5,7 @@ public class Student_details {
 	int age;
 public void studentDetails() {
 	System.out.println("Name:"+Name);
-	System.out.println("Roll number:"+age);
+	System.out.println("age:"+age);
 }
 	public static void main(String [] args) {
 	Scanner sc=new Scanner(System.in);
